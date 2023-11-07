@@ -10,7 +10,6 @@ press@straybombay.com
 
   <address>
     <line>
- 2107 Elliot Ave. STE 205
     </line>
     <line>
 Seattle, WA
@@ -68,13 +67,6 @@ We're a small studio making big games. With a focus on social and cooperative ga
      
       <website>https://twitter.com/chetfaliszek</website>
     </credit>
-	<credit>
-      <person>Dr. Kimberly Voll</person>
-      <role>Co-Founder + AI Developer</role>
-
-
-      <website>https://twitter.com/zanytomato</website>
-    </credit>
   </credits>
 
   <contacts>
@@ -82,7 +74,7 @@ We're a small studio making big games. With a focus on social and cooperative ga
       <name>Will Smith</name>
 
       <!-- Pick one: -->
-      <link>https://forms.gle/Uzq377za7RZ5pwKP8</link>
+      <mail>press@straybombay.com</mail>
     </contact>
   </contacts>
 </company>
