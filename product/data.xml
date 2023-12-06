@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>The Anacrusis</title>
-  <release-date>Fall 2021</release-date>
+  <release-date>December 5, 2023</release-date>
   <website>https://theanacrusis.com</website>
 
   
@@ -54,11 +54,11 @@ The Anacrusis is available on Steam, Xbox Series S|X, Xbox One, and Microsoft St
 
   <trailers>
     <trailer>
-      <name>Gameplay Trailer</name>
+      <name>The Anacrusis 1.0 Launch Trailer</name>
 
       <!-- Pick one: -->
       <youtube>
-        tL0jSf9JLSM
+        uRRUOLU2f8M
       </youtube>
     </trailer>
   </trailers>
